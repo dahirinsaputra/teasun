@@ -1,5 +1,5 @@
 {
-  "name": "@dahirins/weakmap",
+  "name": "@dahirins/teasun",
   "version": "1.1.2",
   "scripts": {
     "dev": "next dev",
@@ -29,7 +29,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dahirinsaputra/teasun.git"
+    "url": "https://github.com/dahirinsaputra/teasun"
   },
   "keywords": [
     "tea"
